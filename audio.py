@@ -1,7 +1,6 @@
 #coding: utf-8
 import wave
 import sys
-sys.path.append("/usr/local/lib/python2.7/site-packages")
 import pyaudio
 CHUNK = 1024
 filename = "../Assets/Roundabout.wav"
